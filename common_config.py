@@ -8,8 +8,7 @@ api_key = os.getenv("LLM_API_KEY")
 BASE_URL = os.getenv("LLM_BASE_URL")
 # print(api_key)
 
-# model = "gpt-4o-mini"
-model = "gpt-4o"
+model = "gpt-5.4-mini"
 temperature = 2
 max_tokens = 2086
 
