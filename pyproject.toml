@@ -26,4 +26,5 @@ dependencies = [
     "requests>=2.34.2",
     "sentence-transformers>=6.1.0",
     "tiktoken>=0.14.0",
+    "transformers>=4.51.0",
 ]
